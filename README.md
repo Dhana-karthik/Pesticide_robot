@@ -1,5 +1,6 @@
 # Pesticide_robot
-
+![Farm1](https://github.com/Dhana-karthik/Pesticide_robot/assets/147986718/630899a0-54b2-44f5-b211-58b796765540)
+<br><br><br>
 Our final year project aim to low cost pesticide robot ppt link :
 <br><br><br>
 ### PPT :
