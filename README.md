@@ -1,13 +1,14 @@
 # Pesticide_robot
-![pesticide](https://github.com/Dhana-karthik/Pesticide_robot/assets/147986718/a338c3c5-492f-4b29-ab7d-265b970cc4e1)
+![Farm1](https://github.com/Dhana-karthik/Pesticide_robot/assets/147986718/5b4aa139-7982-47f8-981b-e98abcbc4625)
+
 <br><br><br>
-Our final year project aim to low cost pesticide robot ppt link :
+Our final year project aim to low cost pesticide robot :
 <br><br><br>
 ### PPT :
 
 We have uploaded the results as video in the PPT : 
 
-<a href="https://www.canva.com/design/DAFyj_LkiyY/oC2Wj-Psn2OYXDa8Oe226g/edit"> Canvas </a>
+<a href="https://www.canva.com/design/DAFyj_LkiyY/oC2Wj-Psn2OYXDa8Oe226g/edit"> Canvas link</a>
 <br><br><br>
 ### ROBOT DESIGN
 
