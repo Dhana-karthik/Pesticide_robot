@@ -6,7 +6,6 @@ Our final year project aim to low cost pesticide robot :
 <br><br><br>
 
 ### PPT :
-
 We have uploaded the results as video in the PPT : 
 
 <a href="https://www.canva.com/design/DAFyj_LkiyY/oC2Wj-Psn2OYXDa8Oe226g/edit"> Canvas link</a>
